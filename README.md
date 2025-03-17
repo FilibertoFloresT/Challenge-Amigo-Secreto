@@ -1,2 +1,3 @@
-# Challenge-Amigo-Secreto
-Juego para sortear un amigo dada una lista de amigos
+<h1>Challenge del amigo secreto</h1>
+
+- Estado: en proceso
